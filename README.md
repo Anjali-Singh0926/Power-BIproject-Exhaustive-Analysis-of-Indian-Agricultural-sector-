@@ -1,2 +1,2 @@
 # Week1_Exhaustive-Analysis-of-Indian-Agricultural-sector-
-loaded the data and worked upon it and made some changes
+In this assessment, I first loaded the dataset into Power BI and then worked on enhancing data visualization for better insights. I added four slicers to allow dynamic filtering of data and included a bar graph to represent key trends more effectively. The visualizations were designed to make data interpretation easier and more interactive. This project showcases my understanding of Power BI, data modeling, and visualization techniques to create meaningful insights. 
